@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "julealgon.AspNetOptionValidationWebHostRepro": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "samples",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:57983/"
+    }
+  }
+}
